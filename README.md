@@ -1,4 +1,4 @@
-# Hi, I'm Kaleb 👋
+# Hi, I'm Kaleb
 
 I am a student researcher, systems builder, and hardware developer focused on **biomedical innovation, embedded sensing, and open scientific infrastructure**.
 
